@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bailbond-riverside.com/sitemap.xml
+Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
